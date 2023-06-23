@@ -43,7 +43,11 @@ Build and run the project on an emulator or real device.
 The application requires permission to access the local storage of the device to fetch the images of the art pieces.
 
 # Screenshots 
+<img src="https://raw.githubusercontent.com/ask0/ArtBook/master/screenshots/Screenshot_1.png" height="400px">
 
+<img src="https://raw.githubusercontent.com/ask0/ArtBook/master/screenshots/Screenshot_2.png" height="400px">
+
+<img src="https://raw.githubusercontent.com/ask0/ArtBook/master/screenshots/Screenshot_3.png" height="400px">
 
 # Contributing
 As this is an educational project for demonstrating basic Android development concepts, contributions are not necessary. However, feel free to fork it and use it as a basis for any other project that might benefit from these features.
